@@ -6,7 +6,7 @@
 - 💬 Ask me about Sass/Scss, Gulp and Bootstrap
 - 📫 How to reach me asror.style@gmail.com
 - ⚡ Fun fact The quality and efficient development of your own software makes you a preferred developer for additional managers and clients.
-<div display="flex">
+<div style="display: flex;">
 <img align="left" height="270px" width="300px" src="https://i.pinimg.com/originals/ab/e5/57/abe557b5780fc93e83447ac60987d000.gif"  />
   <img width="25px" />
 <div>
