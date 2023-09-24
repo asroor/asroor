@@ -8,7 +8,6 @@
 - ⚡ Fun fact The quality and efficient development of your own software makes you a preferred developer for additional managers and clients.
 <div style="display: flex;">
 <img align="left" height="270px" width="300px" src="https://i.pinimg.com/originals/ab/e5/57/abe557b5780fc93e83447ac60987d000.gif"  />
-  ###
 <div>
 <div align="left">
   <h3 align="left">Connect with me:</h3>
