@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Asror Shodiyev</h1>
-<h3 align="left">A passionate frontend developer from Uzbekistan</h3>
+<h2 align="left">A passionate frontend developer from Uzbekistan</h2>
 
 - 🔭 I’m currently working on [COSMO.WIKI](https://cosmo-wiki.netlify.app/)
 - 🌱 I’m currently learning Node.js
