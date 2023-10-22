@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Asror</h1>
-<h3 align="center">Frontend developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asroor&label=Profile%20views&color=0e75b6&style=flat" alt="asroor" /></p>
+<h1 align="left">Hi 👋, I'm Asror</h1>
+<h3 align="left">Frontend developer</h3>
 
 - 🔭 I’m currently working on [World-exchanges](https://world-exchanges.netlify.app/)
 - 🌱 I’m currently learning **node.js and express.js**
@@ -28,12 +27,3 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
-<h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/asroor">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asroor&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asroor&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asroor&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asroor&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asroor&theme=2077" height="180em" />
-</div>
