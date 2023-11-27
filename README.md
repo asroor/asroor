@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Asror</h1>
 <h3 align="left">Frontend developer</h3>
 
-- 🔭 I’m currently working on [World-exchanges](https://world-exchanges.netlify.app/)
 - 🌱 I’m currently learning **node.js and express.js**
 - 💬 Ask me about **gulp, sass/scss, tailwindCss and bootstrap**
 - 📫 How to reach me **asror.style@gmail.com**
