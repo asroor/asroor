@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Asror</h1>
 <h3 align="left">Frontend developer</h3>
 
-- 🌱 I’m currently learning **node.js and express.js**
+- 🌱 I’m currently learning **Angular**
 - 💬 Ask me about **gulp, sass/scss, tailwindCss and bootstrap**
 - 📫 How to reach me **asror.style@gmail.com**
 - ⚡ Fun fact **The quality and efficient development of your software will make you the preferred developer for additional managers and clients.**
